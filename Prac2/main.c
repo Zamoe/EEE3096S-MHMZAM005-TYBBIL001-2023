@@ -13,6 +13,8 @@
   * in the root directory of this software component.
   * If no LICENSE file comes with this software, it is provided AS-IS.
   *
+  * Author: TYBBIL001 ; MHMZAM005
+  * Project: SPI EEE3096S 2023 - Prac 2
   ******************************************************************************
   */
 /* USER CODE END Header */
